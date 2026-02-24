@@ -1,0 +1,46 @@
+﻿Code,Wortlaut
+EUH066,Wiederholter Kontakt kann zu spröder oder rissiger Haut führen.
+H300,Lebensgefahr bei Verschlucken.
+H301,Giftig bei Verschlucken.
+H302,Gesundheitsschädlich bei Verschlucken.
+H303,Kann bei Verschlucken gesundheitsschädlich sein.
+H304,Kann bei Verschlucken und Eindringen in die Atemwege tödlich sein.
+H305,Kann bei Verschlucken und Eindringen in die Atemwege gesundheitsschädlich sein.
+H310,Lebensgefahr bei Hautkontakt.
+H311,Giftig bei Hautkontakt.
+H312,Gesundheitsschädlich bei Hautkontakt.
+H313,Kann bei Hautkontakt gesundheitsschädlich sein.
+H314,Verursacht schwere Verätzungen der Haut und schwere Augenschäden.
+H315,Verursacht Hautreizungen.
+H316,Verursacht leichte Hautreizungen.
+H317,Kann allergische Hautreaktionen verursachen.
+H318,Verursacht schwere Augenschäden.
+H319,Verursacht schwere Augenreizung.
+H320,Verursacht Augenreizung.
+H330,Lebensgefahr bei Einatmen.
+H331,Giftig bei Einatmen.
+H332,Gesundheitsschädlich bei Einatmen.
+H333,Kann bei Einatmen gesundheitsschädlich sein.
+H334,"Kann bei Einatmen Allergie, asthmaartige Symptome oder Atembeschwerden verursachen."
+H335,Kann die Atemwege reizen.
+H336,Kann Schläfrigkeit und Benommenheit verursachen.
+H340,"Kann genetische Defekte verursachen (Expositionsweg angeben, sofern schlüssig belegt ist, dass diese Gefahr bei keinem anderen Expositionsweg besteht)."
+H341,"Kann vermutlich genetische Defekte verursachen (Expositionsweg angeben, sofern schlüssig belegt ist, dass diese Gefahr bei keinem anderen Expositionsweg besteht)."
+H350,"Kann Krebs erzeugen (Expositionsweg angeben, sofern schlüssig belegt ist, dass diese Gefahr bei keinem anderen Expositionsweg besteht)."
+H350i,Kann bei Einatmen Krebs erzeugen.
+H351,"Kann vermutlich Krebs erzeugen (Expositionsweg angeben, sofern schlüssig belegt ist, dass diese Gefahr bei keinem anderen Expositionsweg besteht)."
+H360,"Kann die Fruchtbarkeit beeinträchtigen oder das Kind im Mutterleib schädigen (konkrete Wirkung angeben, sofern bekannt) (Expositionsweg angeben, sofern schlüssig belegt ist, dass die Gefahr bei keinem anderen Expositionsweg besteht)."
+H360F,Kann die Fruchtbarkeit beeinträchtigen.
+H360D,Kann das Kind im Mutterleib schädigen.
+H360FD,Kann die Fruchtbarkeit beeinträchtigen. Kann das Kind im Mutterleib schädigen.
+H360Fd,Kann die Fruchtbarkeit beeinträchtigen. Kann vermutlich das Kind im Mutterleib schädigen.
+H360Df,Kann das Kind im Mutterleib schädigen. Kann vermutlich die Fruchtbarkeit beeinträchtigen.
+H361,"Kann vermutlich die Fruchtbarkeit beeinträchtigen oder das Kind im Mutterleib schädigen (konkrete Wirkung angeben, sofern bekannt) (Expositionsweg angeben, sofern schlüssig belegt ist, dass die Gefahr bei keinem anderen Expositionsweg besteht)."
+H361f,Kann vermutlich die Fruchtbarkeit beeinträchtigen.
+H361d,Kann vermutlich das Kind im Mutterleib schädigen.
+H361fd,Kann vermutlich die Fruchtbarkeit beeinträchtigen. Kann vermutlich das Kind im Mutterleib schädigen.
+H362,Kann Säuglinge über die Muttermilch schädigen.
+H370,"Schädigt die Organe (oder alle betroffenen Organe nennen, sofern bekannt) (Expositionsweg angeben, sofern schlüssig belegt ist, dass diese Gefahr bei keinem anderen Expositionsweg besteht)."
+H371,"Kann die Organe schädigen (oder alle betroffenen Organe nennen, sofern bekannt) (Expositionsweg angeben, sofern schlüssig belegt ist, dass diese Gefahr bei keinem anderen Expositionsweg besteht)."
+H372,"Schädigt die Organe (alle betroffenen Organe nennen) bei längerer oder wiederholter Exposition (Expositionsweg angeben, wenn schlüssig belegt ist, dass diese Gefahr bei keinem anderen Expositionsweg besteht)."
+H373,"Kann die Organe schädigen (alle betroffenen Organe nennen, sofern bekannt) bei längerer oder wiederholter Exposition (Expositionsweg angeben, wenn schlüssig belegt ist, dass diese Gefahr bei keinem anderen Expositionsweg besteht)."
